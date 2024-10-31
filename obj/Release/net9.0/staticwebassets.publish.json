@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "Hash": "+5ZV1JQdF3QLOm/cFNUWkftytcOXCOuxakZ6RElK9yk=",
+  "Source": "Projeto_Web-Lh_Pets_Alunos",
+  "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web-Lh_Pets_Alunos\\wwwroot",
+      "Source": "Projeto_Web-Lh_Pets_Alunos",
+      "ContentRoot": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\obj\\Release\\net9.0\\compressed\\publish\\z6sw7ylqub-junj9l9mbp.br",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index#[.{fingerprint=junj9l9mbp}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "2iew8au8py",
+      "Integrity": "amFFrIStwo81L3lHZtJyBqesJXH6nd3vAR0X1L2k3F8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\obj\\Release\\net9.0\\compressed\\z6sw7ylqub-junj9l9mbp.gz",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index#[.{fingerprint=junj9l9mbp}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "90htqdxyon",
+      "Integrity": "WTlzFJlD4xduQUuXi+vyRJpwoUwyJ3lMtS9J658QBSE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "junj9l9mbp",
+      "Integrity": "hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\obj\\Release\\net9.0\\compressed\\publish\\z6sw7ylqub-junj9l9mbp.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0,007692307692"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"amFFrIStwo81L3lHZtJyBqesJXH6nd3vAR0X1L2k3F8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\obj\\Release\\net9.0\\compressed\\z6sw7ylqub-junj9l9mbp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,005025125628"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WTlzFJlD4xduQUuXi+vyRJpwoUwyJ3lMtS9J658QBSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.br",
+      "AssetFile": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\obj\\Release\\net9.0\\compressed\\publish\\z6sw7ylqub-junj9l9mbp.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"amFFrIStwo81L3lHZtJyBqesJXH6nd3vAR0X1L2k3F8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-amFFrIStwo81L3lHZtJyBqesJXH6nd3vAR0X1L2k3F8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\obj\\Release\\net9.0\\compressed\\z6sw7ylqub-junj9l9mbp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WTlzFJlD4xduQUuXi+vyRJpwoUwyJ3lMtS9J658QBSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WTlzFJlD4xduQUuXi+vyRJpwoUwyJ3lMtS9J658QBSE="
+        }
+      ]
+    },
+    {
+      "Route": "index.junj9l9mbp.html",
+      "AssetFile": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\obj\\Release\\net9.0\\compressed\\publish\\z6sw7ylqub-junj9l9mbp.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0,007692307692"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"amFFrIStwo81L3lHZtJyBqesJXH6nd3vAR0X1L2k3F8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "junj9l9mbp"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc="
+        }
+      ]
+    },
+    {
+      "Route": "index.junj9l9mbp.html",
+      "AssetFile": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\obj\\Release\\net9.0\\compressed\\z6sw7ylqub-junj9l9mbp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,005025125628"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WTlzFJlD4xduQUuXi+vyRJpwoUwyJ3lMtS9J658QBSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "junj9l9mbp"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc="
+        }
+      ]
+    },
+    {
+      "Route": "index.junj9l9mbp.html",
+      "AssetFile": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "junj9l9mbp"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc="
+        }
+      ]
+    },
+    {
+      "Route": "index.junj9l9mbp.html.br",
+      "AssetFile": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\obj\\Release\\net9.0\\compressed\\publish\\z6sw7ylqub-junj9l9mbp.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"amFFrIStwo81L3lHZtJyBqesJXH6nd3vAR0X1L2k3F8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "junj9l9mbp"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-amFFrIStwo81L3lHZtJyBqesJXH6nd3vAR0X1L2k3F8="
+        }
+      ]
+    },
+    {
+      "Route": "index.junj9l9mbp.html.gz",
+      "AssetFile": "C:\\UC012\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\Projeto_Web-Lh_Pets_Alunos\\obj\\Release\\net9.0\\compressed\\z6sw7ylqub-junj9l9mbp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WTlzFJlD4xduQUuXi+vyRJpwoUwyJ3lMtS9J658QBSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "junj9l9mbp"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WTlzFJlD4xduQUuXi+vyRJpwoUwyJ3lMtS9J658QBSE="
+        }
+      ]
+    }
+  ]
+}
